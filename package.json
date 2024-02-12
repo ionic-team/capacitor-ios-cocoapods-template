@@ -1,0 +1,15 @@
+{
+  "name": "@capacitor/ios-cocoapods-template",
+  "version": "1.0.0",
+  "description": "The default native iOS (Cocoapods) project template for Capacitor",
+  "homepage": "https://capacitorjs.com",
+  "author": "Ionic Team <hi@ionic.io> (https://ionic.io)",
+  "license": "MIT",
+  "scripts": {
+    "capacitor:add:after": "node scripts/setup.mjs"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@ionic/utils-fs": "^3.1.6"
+  }
+}
