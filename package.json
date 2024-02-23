@@ -6,10 +6,10 @@
   "author": "Ionic Team <hi@ionic.io> (https://ionic.io)",
   "license": "MIT",
   "scripts": {
-    "capacitor:add:after": "node scripts/setup.mjs"
+    "capacitor:add:after": "node scripts/configure.mjs"
   },
   "keywords": [],
   "dependencies": {
-    "@ionic/utils-fs": "^3.1.6"
+    "@trapezedev/project": "^7.0.10"
   }
 }
